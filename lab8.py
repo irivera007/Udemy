@@ -7,7 +7,7 @@ def taxon(x):
     elif x.isalnum():
         return "is Alphanum 124ABDC"
     else:
-        return "type unknown"
+        return "Type Unknown"
 
 
 print(taxon('T'))
